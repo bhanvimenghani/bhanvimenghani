@@ -1,7 +1,6 @@
 ### Hii 👋 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... ML this is what I do 365 days! 👾  ⚗️ 🔭 🔬 🕳
 - 🌱 I’m currently learning ...  FLutter development 🟥 🟧 🟨 🟩 🟦 🟪

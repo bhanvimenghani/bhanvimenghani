@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Flutter development 🟥 🟧 🟨 🟩 🟦 🟪
 - 👯 I’m looking to collaborate on YouTube 🤝 📢 👁‍🗨 💬 💭
 - 🤔 I’m looking for help with Competitive Coding  🏄‍♀️ 🏊 🚵‍♀️ 🚴 🏊😭 
-- 💬 Ask me about Anything I will fetch you the highst confidence value 😂 😄 😁
+- 💬 Ask me about Anything I will fetch you the highest confidence value 😂 😄 😁
 - 📫 How to reach me [E-Mail](menghanibhanvi@gmail.com) 📧 [LinkedIn](https://www.linkedin.com/in/bhanvi-menghani) 📊 [Twitter](https://twitter.com/MenghaniBhanvi)🐤
 - ⚡ Fun fact: Coffee and Music subsitutes sleep
         

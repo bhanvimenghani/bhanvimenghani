@@ -4,7 +4,7 @@ I am Bhanvi, a final year(2022) Information Technology student from Jaipur Engin
 
 ## [2020 Year in Review Video on YouTube](https://www.youtube.com/watch?v=qSMky00zFXU)
 
-## Jump on to see some more of [ME!](http://bhanvimenghani.me) 
+## Jump on to see some more of [ME!](https://bhanvimenghani.github.io) 
 
 
 - 🌱 I’m currently Optimizing Algorithms.
